@@ -6,7 +6,7 @@ OpenCV is a huge open-source library for computer vision, machine learning, and 
 This OpenCV tutorial will help you learn the Image-processing from Basics to Advance, like operations on Images, Videos using a huge set of Opencv-programs and projects.
 
 #### HAAR CASCADE CLASSIFICATION:
-It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images. ... Initially, the algorithm needs a lot of positive images (images of faces) and negative images (images without faces) to train the classifier.
+It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images. Initially, the algorithm needs a lot of positive images (images of faces) and negative images (images without faces) to train the classifier.
 
 #### GRAPHICAL USER INTERFACE TKINTER:
 Python offers multiple options for developing GUI (Graphical User Interface). Out of all the GUI methods, tkinter is the most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task.
